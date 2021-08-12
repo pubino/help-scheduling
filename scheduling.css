@@ -46,10 +46,6 @@ h2 {
 	}
 }
 
-.who-meet {
-	padding: 2em 0 0 0;
-}
-
 .meet-opt {
 	display: flex;
 	flex-flow: column;
@@ -78,6 +74,6 @@ h2 {
     padding: 11px 16px;  
 }
 
-._2rxQ07L_sk._1M_9Lld7A7 {
-	margin-top: 0 !important;
+.meet-code img {
+	max-height: 200px;
 }
