@@ -47,6 +47,10 @@ h2 {
 	align-items: center;
 }
 
+.meet-butt {
+	min-width: 225px;
+}
+
 .meet-butt, .schedule-button {
     font-weight: 600;
     font-size: 15px;
