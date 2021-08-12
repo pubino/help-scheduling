@@ -52,6 +52,9 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #fff;
+}
+
+.schedule-button {
     background-color: #000;
     border-color:#000
 }
