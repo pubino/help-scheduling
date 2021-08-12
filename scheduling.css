@@ -12,10 +12,13 @@ body {
     line-height: 1.8em;
     text-decoration: none;
     color: #050505;
+    text-align: center;
 }
 
 h1 {
-    font-size:2em
+	font-size: 3em;
+	font-weight: normal;
+	text-transform: uppercase;
 }
 
 h2 {
@@ -34,13 +37,17 @@ h2 {
 }
 
 #innerWrapper {
-    width: 60%;
+    width: 50%;
     margin:30px auto;
     @media only screen and (max-width: 1024px) {
         width: 80%;
         margin: 0 auto;
         margin-bottom:90px;
 	}
+}
+
+.who-meet {
+	padding: 2em 0 0 0;
 }
 
 .meet-opt {
