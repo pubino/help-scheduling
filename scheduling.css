@@ -29,7 +29,8 @@ h2 {
     text-decoration: none;
     line-height: 1.25em;
     color: #030303;
-    margin: 1em 0 .75em
+    margin: 0;
+    padding: 0;
 }
 
 #innerWrapper {
@@ -44,7 +45,9 @@ h2 {
 
 .meet-opt {
 	display: flex;
+	flex-flow: column;
 	align-items: center;
+	padding: 2em 0 2em 0;
 }
 
 .meet-butt {
